@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8CD7B8-2E16-41A9-A355-1D7061D2A173}|A250005_BinaryFileHandling_Assessment_2.vcxproj|C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D8CD7B8-2E16-41A9-A355-1D7061D2A173}|A250005_BinaryFileHandling_Assessment_2.vcxproj|solutionrelative:A250005_BinaryFileHandling_Assessment_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8CD7B8-2E16-41A9-A355-1D7061D2A173}|A250005_BinaryFileHandling_Assessment_2.vcxproj|C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\HighScoreData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D8CD7B8-2E16-41A9-A355-1D7061D2A173}|A250005_BinaryFileHandling_Assessment_2.vcxproj|solutionrelative:HighScoreData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8CD7B8-2E16-41A9-A355-1D7061D2A173}|A250005_BinaryFileHandling_Assessment_2.vcxproj|C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\HighScoreData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D8CD7B8-2E16-41A9-A355-1D7061D2A173}|A250005_BinaryFileHandling_Assessment_2.vcxproj|solutionrelative:HighScoreData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HighScoreData.cpp",
+              "DocumentMoniker": "C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\HighScoreData.cpp",
+              "RelativeDocumentMoniker": "HighScoreData.cpp",
+              "ToolTip": "C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\HighScoreData.cpp",
+              "RelativeToolTip": "HighScoreData.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T00:51:51.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HighScoreData.h",
+              "DocumentMoniker": "C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\HighScoreData.h",
+              "RelativeDocumentMoniker": "HighScoreData.h",
+              "ToolTip": "C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\HighScoreData.h",
+              "RelativeToolTip": "HighScoreData.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-08T00:51:48.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A250005_BinaryFileHandling_Assessment_2.cpp",
+              "DocumentMoniker": "C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2.cpp",
+              "RelativeDocumentMoniker": "A250005_BinaryFileHandling_Assessment_2.cpp",
+              "ToolTip": "C:\\Users\\kurtc\\OneDrive\\Documents\\GitHub\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2\\A250005_BinaryFileHandling_Assessment_2.cpp",
+              "RelativeToolTip": "A250005_BinaryFileHandling_Assessment_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T00:14:36.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

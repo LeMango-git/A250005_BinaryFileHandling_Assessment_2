@@ -18,5 +18,13 @@
     <ClCompile Include="A250005_BinaryFileHandling_Assessment_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HighScoreData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HighScoreData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
